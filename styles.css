@@ -1,0 +1,12 @@
+body {
+  font-family: sans-serif;
+  background-color: #000066;
+}
+
+a {
+  color: yellow;
+}
+
+h1, h2, p, .menu-sep {
+  color: white;
+}
