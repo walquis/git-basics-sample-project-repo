@@ -11,9 +11,17 @@ h1, h2, p, .menu-sep {
   color: white;
 }
 
-.one-column {
+.sol-container {
   width: 95%;
+}
+
+.one-column {
+  width: 100%;
   padding: 20px;
   border: 5px solid black;
-  margin: 2px;
+  margin: 20px;
+}
+
+img {
+  width: inherit;
 }
