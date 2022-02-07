@@ -14,3 +14,18 @@ h1 {
 h1, h2, p, .menu-sep {
   color: white;
 }
+
+.sol-container {
+  width: 95%;
+}
+
+.one-column {
+  width: 100%;
+  padding: 20px;
+  border: 5px solid black;
+  margin: 20px;
+}
+
+img {
+  width: inherit;
+}
