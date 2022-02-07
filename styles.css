@@ -10,3 +10,18 @@ a {
 h1, h2, p, .menu-sep {
   color: white;
 }
+
+.planets-container {
+  display:flex;
+  justify-content: space-evenly;
+}
+
+.planet {
+  margin: 20px;
+  width: 80%;
+  display: inline-block;
+}
+
+img {
+  width: inherit;
+}
